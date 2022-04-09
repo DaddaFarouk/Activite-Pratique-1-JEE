@@ -12,10 +12,10 @@
 
 5. Créer la couche Présentation en faisant l’injection des dépendances :
 
-	a- Par Instanciation statique 
-
-	b- Par Instanciation dynamique 
-
-	c- En utilisant Spring : 
-	- XML 
-	- Annotations 
+>  - Par Instanciation statique 
+>	
+>  - Par Instanciation dynamique 
+>	
+>  - En utilisant Spring : 
+>	  	- XML 
+>	 	- Annotations 
