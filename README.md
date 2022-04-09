@@ -1,6 +1,6 @@
 # Activite-Pratique-1-JEE
 
-##H2 Énoncé
+#Énoncé
 
 1-	Créer l’interface IDao. 
 
@@ -18,5 +18,5 @@ b-	Par Instanciation dynamique
 
 c-	En utilisant Spring : 
 
-			... - XML 
-			... - Annotations 
+			...- XML 
+			...- Annotations 
