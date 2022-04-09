@@ -18,5 +18,5 @@
 
 	c- En utilisant Spring : 
 
-:-  - XML 
-:-  - Annotations 
+: - XML 
+: - Annotations 
