@@ -17,6 +17,5 @@
 	b- Par Instanciation dynamique 
 
 	c- En utilisant Spring : 
-&nbsp;
-  XML 
-  Annotations 
+	- XML 
+	- Annotations 
